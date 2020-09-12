@@ -1,0 +1,43 @@
+body{
+    background-color: #eee;
+
+}
+
+.main{
+    padding: 10px;
+    width: auto;
+}
+
+
+.form-container{
+    width: 80%;
+    margin: auto;
+
+}
+
+form input[type="text"]{
+    width: 100%;
+    height:30px;
+}
+
+form input[type="submit"]{
+    width: 100%;
+    height:30px;
+    background-color: #0000cc;
+    color:#fff;
+    border: none;
+    border-radius: 5px;
+    padding:3px;
+}
+
+
+form label{
+    text-align: left !important;
+}
+
+
+footer {
+    text-align: center;;
+}
+
+
